@@ -1,2 +1,2 @@
 # school-projects
-coding school projects 
+my programming school projects 
